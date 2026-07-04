@@ -46,7 +46,8 @@ $endif$
 \item\relax\color{blockquote-text}\ignorespaces}{\unskip\unskip\endlist\end{customblockquote}}
 
 %
-% --- Restored v3.4.0 PDFTeX vs. XeTeX/LuaTeX Engine font loading checks ---
+% Source Sans as the default font family
+% Source Code Pro for monospace text
 %
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   $if(fontfamily)$
